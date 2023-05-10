@@ -4,7 +4,7 @@ This project is an API for managing beer dispensers. It allows you to create dis
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/pablogm/bear_tap_disperser.git`
+1. Clone the repository: `git clone https://github.com/pablogm/beer_tap_disperser.git`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
