@@ -90,7 +90,7 @@ Another very important aspect is to collect metrics and KPIs which will allow us
 ### Costs
 Cost control and efficiency are critical factors in any project. It allow us to manage budget, optimize resources, make accurate financial forecasts, increase profitabilty and provide confidence amongst stakeholders.
 
-### Database: 
+### Database
 We would want our data to be persistent, which would involve setting up a database, creating a data model, and modifying the code to read/write from the database.
 
 
